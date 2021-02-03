@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Saurav Gami",
+    "occupation": "Frontend Developer",
+    "description": "I eat, sleep and make soothing UI components",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Saurav! You can also know me as React.JS Developer. I've been coding for over 1 year now. As a Frontend Developer. I've worked with freelancing groups to help build web apps & helped small businesses scale their companies worldwide. I deliver REAL VALUE by building large scale projects to help companies scale their business with my problem solving skills through web technologies.",
+    "contactmessage": "Get in touch with me to collaborate",
+    "email": "Saurabgami977@gmail.com",
+    "phone": "+977 9861484326",
+    "address": {
+      "street": "Kaushaltar-03, Bhaktapur",
+      "city": "Kathmandu",
+      "state": "Bagmati",
+      "zip": "446600"
+    },
+    "website": "manojgami.com.np",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCHyTZUqlFxxBlNOa54jy8xw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/saurabgami977",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saurav-gami-08618b1a0/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/saurabhgami01/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Saurabgami977",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills Proficiency",
+    "education": [
+      {
+        "school": "Janapremi Higher Secondary School",
+        "degree": "High School Degree, Computer Science",
+        "graduated": "February 2021",
+        "description": "Graduated with First Division"
+      }
+    ],
+    "work": [
+      {
+        "company": "Upwork",
+        "title": "ReactJS Developer",
+        "years": "January 2021 - Present",
+        "description": "Building Small functional components collaborating with small group of colleagues"
+      },
+      {
+        "company": "Your Company",
+        "title": "Frontend Developer",
+        "years": "Future - Future",
+        "description": "Building Frontend of website ensuring better user experience with less interaction as possible"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fetching Data (React JS)",
+        "category": "Basic",
+        "image": "https://miro.medium.com/max/1340/1*GtBLq1bUaK0-ZiqqYSJ3FQ.png",
+        "url": "https://github.com/Saurabgami977/ReactGithubApiFetch/tree/master"
+      },
+      {
+        "title": "Burger Builder(React JS)",
+        "category": "Advance",
+        "image": "https://user-images.githubusercontent.com/29265857/43362634-9a4fa826-92c5-11e8-961b-05e20ba8c883.png",
+        "url": "https://github.com/Saurabgami977/BurgerBuilder/tree/master"
+      },
+      {
+        "title": "Copying Figma Design (React JS)",
+        "category": "Design",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wF8omTKhH_IvWTI3uZ2e9SNiKR3MncjlHA&usqp=CAU",
+        "url": "https://github.com/Saurabgami977/React-Figma-Mockup/tree/master"
+      },
+      {
+        "title": "E-commerce (React JS)",
+        "category": "Advance",
+        "image": "https://www.responsivemiracle.com/wp-content/uploads/2016/martfury-html-html5-responsive-theme-slider2.jpg",
+        "url": "https://github.com/Saurabgami977/React_Ecommerce_1/tree/master"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Saurav is absolutely excellent. I would definitely recommend",
+        "user": "Everyone"
+      },
+      {
+        "text": "Saurav has been my Amazing partner to collaborate in diffrent kind of projects, he makes learning and building React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Dibash Thapa"
+      }
+    ]
+  }
+}
