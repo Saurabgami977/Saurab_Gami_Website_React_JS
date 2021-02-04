@@ -90,10 +90,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Fetching Data (React JS)",
-        "category": "Basic",
-        "image": "https://miro.medium.com/max/1340/1*GtBLq1bUaK0-ZiqqYSJ3FQ.png",
-        "url": "https://github.com/Saurabgami977/ReactGithubApiFetch/tree/master"
+        "title": "Netflix Clone(React JS)",
+        "category": "Advanced",
+        "image": "https://variety.com/wp-content/uploads/2020/05/netflix-logo.png",
+        "url": "https://github.com/Saurabgami977/Netflix__Clone__React/tree/master"
       },
       {
         "title": "Burger Builder(React JS)",
@@ -112,6 +112,12 @@
         "category": "Advance",
         "image": "https://www.responsivemiracle.com/wp-content/uploads/2016/martfury-html-html5-responsive-theme-slider2.jpg",
         "url": "https://github.com/Saurabgami977/React_Ecommerce_1/tree/master"
+      },
+      {
+        "title": "Fetching Data (React JS)",
+        "category": "Basic",
+        "image": "https://miro.medium.com/max/1340/1*GtBLq1bUaK0-ZiqqYSJ3FQ.png",
+        "url": "https://github.com/Saurabgami977/ReactGithubApiFetch/tree/master"
       }
     ]
   },
