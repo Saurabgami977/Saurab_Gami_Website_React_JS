@@ -4,14 +4,14 @@
     "occupation": "Frontend Developer",
     "description": "I eat, sleep and make soothing UI components",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Saurav! I am ~ years old. I am You can also know me as React.JS Developer. I've been coding for over 1 year now. As a Frontend Developer. I've worked with freelancing groups to help build web apps & helped small businesses scale their companies worldwide. I deliver REAL VALUE by building large scale projects to help companies scale their business with my problem solving skills through web technologies.",
+    "bio": "Hi there! I am Saurav! I am ~ years old. I am also know me as React.JS Developer. I've been coding for over 1 year now. As a Frontend Developer. I've worked with freelancing groups to help build web apps & helped small businesses scale their companies worldwide. I deliver REAL VALUE by building large scale projects to help companies scale their business with my problem solving skills through web technologies.",
     "contactmessage": "Get in touch with me to collaborate",
     "email": "Saurabgami977@gmail.com",
     "phone": "+977 9861484326",
     "address": {
       "street": "Kaushaltar-03, Bhaktapur",
       "city": "Kathmandu",
-      "state": "Bagmati",
+      "state": "Bagmati Nepal",
       "zip": "446600"
     },
     "website": "manojgami.com.np",
@@ -51,39 +51,54 @@
         "school": "Janapremi Higher Secondary School",
         "degree": "High School Degree, Computer Science",
         "graduated": "February 2021",
-        "description": "Graduated with First Division"
+        "description": "Graduated with 'B+' GPA"
+      },
+      {
+        "school": "Orbit English Secondary School",
+        "degree": "Schooling",
+        "graduated": "February 2018",
+        "description": "Graduated with 'A' GPA"
       }
     ],
     "work": [
       {
         "company": "Upwork",
+        "link": "https://upwork.com",
         "title": "ReactJS Developer",
         "years": "January 2021 - Present",
         "description": "Building Small functional components collaborating with small group of colleagues"
       },
       {
-        "company": "Your Company",
-        "title": "Frontend Developer",
-        "years": "Future - Future",
-        "description": "Building Frontend of website ensuring better user experience with less interaction as possible"
+        "company": "Cupponpro Inc.",
+        "link": "https://cupponpro.com",
+        "title": "Junior React.JS Developer",
+        "years": "Feburary 2021 - April 2021",
+        "description": "Building Reusable UI functional components. working with the team. Collaborating with UI/UX designer and backend engineer to bring best outcome possible in short time."
+      },
+      {
+        "company": "HostMaria",
+        "link": "https://hostmaria.com",
+        "title": "Technical Support + Junior Blockchain developer",
+        "years": "15 March 2021 - Present",
+        "description": "Working remotely in London,UK based web hosting company. Communicating with people all over the world. Solving problem related to web hosting and wordpress related issuse during hosting. Also, Learning and Implementing Blockchain in web applications in the same company."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "JavaScript",
         "level": "75%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "HTMl/CSS",
+        "level": "70%"
       },
       {
-        "name": "Web Development",
-        "level": "55%"
+        "name": "Git/GitHub",
+        "level": "80%"
       }
     ]
   },
